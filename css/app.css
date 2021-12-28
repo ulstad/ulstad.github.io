@@ -25,7 +25,7 @@ section {
 figure {
   margin:0;
   padding-top: .6rem;
-  color: #999999;
+  color: #666666;
 }
 
 @media screen and (min-width: 30em) {
@@ -87,6 +87,7 @@ h6 {
   }
   h5 {
     font-size: 1.2rem;
+    font-weight: 500;
   }
   h6 {
     font-size: .7rem;
@@ -143,7 +144,8 @@ p {
     border: 0; }
 
   hr {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #000000;
+  max-width: none;
 }
 
 /* End global styles */
@@ -216,7 +218,11 @@ nav .logo a:hover, a:focus {
 }
 
 .gray {
-  color: #999999;
+  color: #8d8d8d;
+}
+
+li {
+    font-size: 1.25rem;
 }
 
 #project-grid {
@@ -293,7 +299,7 @@ footer {
 }
 
 #copyright h6 {
-    color: #999999;
+    color: #666666;
 }
 
 #social-icons {
@@ -323,7 +329,7 @@ footer {
   margin-left: 0; }
 
 footer a {
-    color: #999999
+    color: #666666
 }
 
 footer a:hover, a:focus {
