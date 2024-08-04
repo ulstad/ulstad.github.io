@@ -30,18 +30,18 @@
   
 @font-face {
   font-family: "AlmarenaMonoDisplayLight";
-  src: url('webFonts/AlmarenaMonoDisplayLight/font.woff2') format('woff2'), url('webFonts/AlmarenaMonoDisplayLight/font.woff') format('woff');
+  src: url('/webFonts/AlmarenaMonoDisplayLight/font.woff2') format('woff2'), url('/webFonts/AlmarenaMonoDisplayLight/font.woff') format('woff');
 }
 @font-face {
   font-family: "AlmarenaMonoBold";
-  src: url('webFonts/AlmarenaMonoBold/font.woff2') format('woff2'), url('webFonts/AlmarenaMonoBold/font.woff') format('woff');
+  src: url('/webFonts/AlmarenaMonoBold/font.woff2') format('woff2'), url('/webFonts/AlmarenaMonoBold/font.woff') format('woff');
 }
 @font-face {
   font-family: "AlmarenaMonoDisplayBold";
-  src: url('webFonts/AlmarenaMonoDisplayBold/font.woff2') format('woff2'), url('webFonts/AlmarenaMonoDisplayBold/font.woff') format('woff');
+  src: url('/webFonts/AlmarenaMonoDisplayBold/font.woff2') format('woff2'), url('/webFonts/AlmarenaMonoDisplayBold/font.woff') format('woff');
 }
 @font-face {
   font-family: "AlmarenaMonoLight";
-  src: url('webFonts/AlmarenaMonoLight/font.woff2') format('woff2'), url('webFonts/AlmarenaMonoLight/font.woff') format('woff');
+  src: url('/webFonts/AlmarenaMonoLight/font.woff2') format('woff2'), url('/webFonts/AlmarenaMonoLight/font.woff') format('woff');
 }
 
