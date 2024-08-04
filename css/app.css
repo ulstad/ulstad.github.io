@@ -166,7 +166,7 @@ nav ul li {
   	}  }
 
 #site-title {
-font-family: AlmarenaMonoBold;
+font-family: AlmarenaMonoBold,  "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 
 #site-title a:hover, a:focus {
@@ -220,7 +220,7 @@ li {
 }
 
 .bold {
-    font-family: AlmarenaMonoDisplayBold;
+    font-family: AlmarenaMonoDisplayBold, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 
 #project-grid {
