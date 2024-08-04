@@ -30,7 +30,7 @@
   
 @font-face {
   font-family: "AlmarenaMonoDisplayLight";
-  src: url(webFonts/AlmarenaMonoDisplayLight/font.woff2) format('woff2'), url(webFonts/AlmarenaMonoDisplayLight/font.woff) format('woff');
+  src: url('webFonts/AlmarenaMonoDisplayLight/font.woff2') format('woff2'), url('webFonts/AlmarenaMonoDisplayLight/font.woff') format('woff');
 }
 @font-face {
   font-family: "AlmarenaMonoBold";
