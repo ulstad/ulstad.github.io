@@ -29,7 +29,8 @@ figure {
 
 @media screen and (min-width: 30em) {
   figure {
-    padding-top: 1.2rem;
+    padding-top: .9375rem;
+    padding-bottom: .9375rem;
   }
 }
 
