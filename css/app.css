@@ -37,6 +37,7 @@ figure {
 figcaption {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  color: #000000;
 }
 
 .flex-video {
@@ -92,7 +93,7 @@ h6 {
 
    @media screen and (min-width: 40em) {
   h1 {
-    font-size: 3.4rem; }
+    font-size: 4rem; }
   h2 {
     font-size: 2.5rem; }
   h3 {
@@ -107,7 +108,7 @@ h6 {
 
   @media screen and (min-width: 60em) {
   h1 {
-    font-size: 5rem; }
+    font-size: 6rem; }
   h2 {
     font-size: 3rem; }
   h3 {
@@ -138,6 +139,8 @@ p {
     border-bottom: 1px solid #dddddd; }
   a img {
     border: 0; }
+  a:hover, a:focus video {
+    border-bottom: 0; }  
 
   hr {
   border-bottom: 1px solid #000000;
@@ -246,7 +249,6 @@ li {
   display: block;
 }
   #project-grid a:hover, a:focus {
-    color:;
     opacity: 1;
     border-bottom: 0px solid #dddddd; }
 
