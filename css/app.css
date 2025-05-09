@@ -282,6 +282,25 @@ li {
   text-align: center;
 }
 
+.case-grid .columns {
+  padding-top: .6rem;
+}
+
+@media screen and (min-width: 30em) {
+  .case-grid .columns {
+    padding-top: .9375rem;
+    padding-bottom: .9375rem;
+  }
+}
+
+@media screen and (min-width: 30em) {
+  .case-grid .copy-block {
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+  }
+}
+
+
 
 
 /* Footer Styles */
