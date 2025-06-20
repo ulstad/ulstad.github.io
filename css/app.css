@@ -40,6 +40,7 @@ figcaption {
   color: #000000;
 }
 
+
 .flex-video {
   margin-bottom: 0rem;
 }
@@ -225,6 +226,9 @@ li {
 
 .bold {
     font-family: AlmarenaMonoDisplayBold, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+.bold-text {
+    font-family: AlmarenaMonoBold, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 
 #project-grid {
